@@ -1,0 +1,5 @@
+{
+  "name": "TrendPulse AI Dashboard",
+  "description": "A comprehensive trend monitoring dashboard integrating RSS feed aggregation with Google Gemini AI for intelligent content analysis, sentiment tracking, and trend summarization.",
+  "requestFramePermissions": []
+}
